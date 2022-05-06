@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousOperations", "AsynchronousOperations\AsynchronousOperations.csproj", "{03214407-7278-4DD7-BD34-7A6812F54C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatchSample", "StopWatchSample\StopWatchSample.csproj", "{66B3FBF1-14A8-4B5D-B8AC-3AAC0AE5096D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseAsyncCallback", "UseAsyncCallback\UseAsyncCallback.csproj", "{BAE3586B-F514-4438-89C8-17E0DD6B83D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerExample", "TimerExample\TimerExample.csproj", "{91B0E917-01E9-4BDC-825F-0285B6613798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03214407-7278-4DD7-BD34-7A6812F54C51}.Debug|x86.ActiveCfg = Debug|x86
+		{03214407-7278-4DD7-BD34-7A6812F54C51}.Debug|x86.Build.0 = Debug|x86
+		{03214407-7278-4DD7-BD34-7A6812F54C51}.Release|x86.ActiveCfg = Release|x86
+		{03214407-7278-4DD7-BD34-7A6812F54C51}.Release|x86.Build.0 = Release|x86
+		{66B3FBF1-14A8-4B5D-B8AC-3AAC0AE5096D}.Debug|x86.ActiveCfg = Debug|x86
+		{66B3FBF1-14A8-4B5D-B8AC-3AAC0AE5096D}.Debug|x86.Build.0 = Debug|x86
+		{66B3FBF1-14A8-4B5D-B8AC-3AAC0AE5096D}.Release|x86.ActiveCfg = Release|x86
+		{66B3FBF1-14A8-4B5D-B8AC-3AAC0AE5096D}.Release|x86.Build.0 = Release|x86
+		{BAE3586B-F514-4438-89C8-17E0DD6B83D8}.Debug|x86.ActiveCfg = Debug|x86
+		{BAE3586B-F514-4438-89C8-17E0DD6B83D8}.Debug|x86.Build.0 = Debug|x86
+		{BAE3586B-F514-4438-89C8-17E0DD6B83D8}.Release|x86.ActiveCfg = Release|x86
+		{BAE3586B-F514-4438-89C8-17E0DD6B83D8}.Release|x86.Build.0 = Release|x86
+		{91B0E917-01E9-4BDC-825F-0285B6613798}.Debug|x86.ActiveCfg = Debug|x86
+		{91B0E917-01E9-4BDC-825F-0285B6613798}.Debug|x86.Build.0 = Debug|x86
+		{91B0E917-01E9-4BDC-825F-0285B6613798}.Release|x86.ActiveCfg = Release|x86
+		{91B0E917-01E9-4BDC-825F-0285B6613798}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
